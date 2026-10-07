@@ -11,3 +11,6 @@ build/
 .venv/
 *.pyc
 .DS_Store
+
+# Safe security ignores
+.env.local
